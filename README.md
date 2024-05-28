@@ -1,5 +1,2 @@
-By Saikuru, NATSUMI, Felix
-\\\\\\\\\\\\\\\\\\\\\\\\\
-Version 8\5\4
-\\\\\\\\\\\\\\\\\\\\\\\\\
-Private For Phasma Project
+Данный скрипт был разработан Saikuru & Felix.
+Данный скрипт является примитивной Data Base для Phasma Project и ведения в нем базы данных модераторов.
