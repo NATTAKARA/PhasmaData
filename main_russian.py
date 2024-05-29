@@ -1,7 +1,7 @@
 #От Saikuru
 #Версия 8\5\4
 #База данных проекта Фазма
-
+#Русский Перевод
 import json
 import discord
 from discord.ext import commands
